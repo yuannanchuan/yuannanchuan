@@ -1,0 +1,20 @@
+-
+  name: py37
+  level: INFO
+  file: py37期日志应用.log
+
+-
+  host: XX
+  database: XX
+  port: XX
+
+-
+  - 哈哈
+  - 拉拉
+  - 耶耶
+  - 喜喜
+  - 嘻嘻
+
+-
+
+
